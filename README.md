@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a postdoctoral researcher at the [Takuvik Joint International Laboratory](https://www.takuvik.ulaval.ca/) (Université Laval & CNRS-INSU; Quebec City, Canada), working with Florent Dominé to improve the representation of Arctic snowpacks in physically based snow models. 
+❄️ I am currently a postdoctoral researcher at the [Takuvik Joint International Laboratory](https://www.takuvik.ulaval.ca/) (Université Laval & CNRS-INSU; Quebec City, Canada), working with Florent Dominé to improve the representation of Arctic snowpacks in physically based snow models. 
 
-Previously, I led an ESA CCI postdoc fellowship at UQTR (Trois-Rivières, Canada) within the [SnowC2](https://climate.esa.int/en/about-us-new/fellowships/esa-cci-research-fellowship-Mickael-Lalande/) project, which aimed to improve the snow scheme of the [CLASSIC](https://cccma.gitlab.io/classic_pages/) LSM in Arctic regions, in collaboration with Environment and Climate Change Canada. 
+🌐 Previously, I led an ESA CCI postdoc fellowship at UQTR (Trois-Rivières, Canada) within the [SnowC2](https://climate.esa.int/en/about-us-new/fellowships/esa-cci-research-fellowship-Mickael-Lalande/) project, which aimed to improve the snow scheme of the [CLASSIC](https://cccma.gitlab.io/classic_pages/) LSM in Arctic regions, in collaboration with Environment and Climate Change Canada. 
 
-I obtained my PhD at [IGE](https://www.ige-grenoble.fr/) (Grenoble, France), under the supervision of Martin Ménégoz and Gerhard Krinner, where I investigated climate trends and variability in High Mountain Asia using CMIP6 multi-model analyses and developments in the [ORCHIDEE](https://orchidee.ipsl.fr/) LSM.
+🏔️ I obtained my PhD at [IGE](https://www.ige-grenoble.fr/) (Grenoble, France), under the supervision of Martin Ménégoz and Gerhard Krinner, where I investigated climate trends and variability in High Mountain Asia using CMIP6 multi-model analyses and developments in the [ORCHIDEE](https://orchidee.ipsl.fr/) LSM.
